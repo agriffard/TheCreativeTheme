@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TheCreativeTheme": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
