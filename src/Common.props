@@ -5,7 +5,7 @@
     <RepositoryUrl>https://github.com/agriffard/TheCreativeTheme</RepositoryUrl>
     <PackageProjectUrl>https://github.com/agriffard/TheCreativeTheme</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/agriffard/TheCreativeTheme/blob/master/LICENSE</PackageLicenseUrl>
-    <TargetFrameworks>net6.0</TargetFrameworks>
+    <TargetFrameworks>net8.0</TargetFrameworks>
     <VersionSuffix Condition="'$(VersionSuffix)'!='' AND '$(BuildNumber)' != ''">$(VersionSuffix)-$(BuildNumber)</VersionSuffix>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <DebugType>embedded</DebugType>
